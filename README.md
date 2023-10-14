@@ -1,2 +1,2 @@
 # logisim-evolution_computer_text_file_circ
-半成品 aaa_4是显示相关的
+半成品 aaa_4部分是显示相关的，也有ram，当时是搞cpu以外的
